@@ -1,0 +1,6 @@
+openai>=1.30
+numpy
+
+# 仅微信机器人需要,且仅支持 Windows
+wxauto
+flask
